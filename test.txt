@@ -1,0 +1,56 @@
+Nguyen Van Hung
+30
+5.8
+25-01-2021
+Marketing
+1
+Business Leader
+Tran Quang Duy
+23
+4.6
+08-02-2021
+Marketing
+1
+Project Leader
+Nguyen Van Hung
+40
+6.3
+21-02-2021
+Sale
+1
+Business Leader
+Nguyen Van Nhan
+29
+5.0
+16-03-2021
+Marketing
+
+5
+Bui Minh Thanh
+32
+5.8
+23-03-2021
+Sale
+
+3
+Nguyen Huu Tri
+32
+5.7
+27-03-2021
+Mobile Production
+
+7
+Tran Viet Linh
+31
+5.2
+17-06-2021
+PC Production
+1
+Technical Leader
+Phan Minh Dat
+42
+6.8
+13-07-2021
+Mobile Production
+1
+Project Leader
